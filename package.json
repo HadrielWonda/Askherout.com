@@ -1,5 +1,5 @@
 {
-  "name": "Laura-Site",
+  "name": "Noma-Site",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -20,9 +20,9 @@
     "edit",
     "webpack"
   ],
-  "author": "Chase McCarty",
+  "author": "HadrielWonda",
   "license": "MIT",
-  "homepage": "https://github.com/chasemc67/Breeze-App",
+  "homepage": "https://github.com/HadrielWonda",
   "devDependencies": {},
   "dependencies": {
     "babel-core": "^6.0.20",
